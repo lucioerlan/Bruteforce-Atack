@@ -7,15 +7,20 @@
 <!-- PROJECT -->
 <p align="center">
   <h3 align="center"> 
-    Python Brute Force 🔑
-  <br /> <br /> 
+   Python Brute Force 🔑
+  <br />  <br />
   
   <p align="center">
+    <img src="https://user-images.githubusercontent.com/67064886/102774112-1baece00-4369-11eb-9364-9fd1e5864159.gif" alt="giff" >
+    <br />
+    <br />
     <a href="https://github.com/lucioerlan/Wordlist-Bruteforce/issues">Report Bug</a>
     ·
     <a href="https://github.com/lucioerlan/Wordlist-Bruteforce/issues">Request Feature</a>
   </p>
 </p>
+
+<br />
 
 <br />
 
