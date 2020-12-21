@@ -1,48 +1,90 @@
+<!-- PROJECT SHIELDS -->
+
 [![LICENSE](https://img.shields.io/github/license/arshadkazmi42/awesome-github-init.svg)](https://github.com/arshadkazmi42/awesome-github-init/LICENSE)
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/erlanlucio/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flucioerlan%2FWordlist-Bruteforce&count_bg=%23E71A18&title_bg=%23555555&icon=dependabot.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<p align=center> Python Brute Force 🔑
-                                            
+<!-- PROJECT -->
+<p align="center">
+  <h3 align="center"> 
+    Python Brute Force 🔑
+  <br />  <br />
+  
+  <p align="center">
+    <a href="https://github.com/lucioerlan/Wordlist-Bruteforce/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/lucioerlan/Wordlist-Bruteforce/issues">Request Feature</a>
+  </p>
+</p>
 
+<br />
 
-##### Requirements Python 3+
-<br><br> 
+<!-- SETUP -->
 
+## 🔥 Setup
 
-#### How to use?
+- Python 3+
+
+<br />
+
+<!-- INSTALLATION -->
+
+## 🔨 Installation
+### **Install the Libraries**
+```sh
+pip install -r requiriments.txt
+```
 
 ```sh
-First, use some service to generate your wordlist, eg Crunch, John the ripper, put it inside \ BruteForce \ wordlist.txt.
-
-Second Click on the field where you want to test passwords.
-
- 
+Then, use some service to generate your wordlist, eg Crunch, John the ripper, put it inside \ Service \ wordlist.txt. 😎
 ```
-<br><br> 
 
+</br>
 
+<!-- Technologies -->
 
+## 🚀 Technologies Used
 
-### Initialization 
+![python](https://user-images.githubusercontent.com/67064886/102763558-9de2c680-4358-11eb-984a-d84953ea29ca.png)
 
-```sh
-$ python start.py
+<br />
+
+<!-- RUNNING -->
+
+## 🚀 Running
+
 ```
-<br><br> 
+$ python main .py
+```
+
+</br>
 
 
 
-### Packages
-| [`pyautogui`](https://github.com/psf/requests) | PyAutoGUI is a cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.|
-<br><br> 
+## ✋  Attention
+#### Misuse of this program is not my responsibility, the goal is only educational, I am not responsible for your actions.
 
+<br />
 
-### Atenção,o mal uso desse programa não é de minha responsabilidade, o objetivo é apenas educacional, não sou responsável pelo seus atos.  🛁
-<br><br> 
+<!-- LICENSE -->
 
+## 🔓 License
 
-### 🔓 Licença 
-MIT © [Erlan Lúcio](https://br.linkedin.com/in/erlan-lucio-760745183)
-<br><br> 
+This project lives under MIT License. See LICENSE for more details. ©2019 - [Erlan Lucio](https://www.linkedin.com/in/erlanlucio/)
 
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
+[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
+[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
+[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
+[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/othneildrew
+[product-screenshot]: images/screenshot.png
