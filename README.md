@@ -8,7 +8,7 @@
 <p align="center">
   <h3 align="center"> 
     Python Brute Force 🔑
-  <br /> 
+  <br /> <br /> 
   
   <p align="center">
     <a href="https://github.com/lucioerlan/Wordlist-Bruteforce/issues">Report Bug</a>
@@ -23,7 +23,7 @@
 
 ## 🔥 Setup
 
-- Python 3+
+**`- Python 3+`**
 
 <br />
 
@@ -34,7 +34,7 @@
 pip install -r requiriments.txt
 ```
 
-* Then, use some service to generate your wordlist, eg Crunch, John the ripper, put it inside \Service\wordlist.txt. 😎
+* Then, use some service to generate your wordlist, eg **Crunch, John the ripper**, put it inside \Service\wordlist.txt. 😎
 
 
 </br>
@@ -54,7 +54,7 @@ pip install -r requiriments.txt
 ```
 $ python main.py
 ```
-* Then, So click on the place where, you want to test the passwords
+* Then, So **click** on the place where, you want to test the passwords
 
 
 </br>
