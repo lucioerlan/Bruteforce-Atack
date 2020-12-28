@@ -1,5 +1,5 @@
-from Service.service import service
-from Customs.style import style
+from service.service import service
+from utils.style import style
 
 try:
     servico = service()

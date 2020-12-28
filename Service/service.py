@@ -1,10 +1,8 @@
 #coding: utf-8
 # -*- coding:utf-8 -*-
 
-import sys
 import time
 import pyautogui
-import os.path
 
 class service:
     
@@ -12,7 +10,7 @@ class service:
         self.error = None
 
     def inputlist(self):
-        self.passcrack('./Service/wordlist.txt')
+        self.passcrack('./archives/wordlist.txt')
 
     def passcrack(self, file_name):
         word_list = open(file_name, 'r')
